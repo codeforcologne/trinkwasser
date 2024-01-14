@@ -26,5 +26,5 @@ geänderte Dateien für Köln:
 * src/index.html
 * src/data/locations.js
 * src/data/mineralwaesser.js
-* src/data/zones.js
+* src/data/zones.js (enthält Wasserwerte aus PDF Dateien)
 * unused files moved to: src/data/not used for Cologne version
